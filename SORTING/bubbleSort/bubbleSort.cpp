@@ -1,3 +1,7 @@
+// bubble sort 
+//  larget elment push back to the last 
+//  swapping method use dto swap two element push back large element 
+
 #include <iostream>
 using namespace std;
 
